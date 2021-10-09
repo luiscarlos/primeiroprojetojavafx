@@ -1,0 +1,2 @@
+# primeiroprojetojavafx
+Primeiro projeto javaFX
